@@ -1,1 +1,1 @@
-"# Prvni pokus v gitu" 
+# Prvni pokus v gitu 
